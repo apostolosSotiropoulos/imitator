@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: black;
+  color: white;
+  height: 12vh;
+}
+
+nav {
+  background-color: grey;
+  color: white;
+  height: 5vh;
+}
+
+content {
+  display: block;
+  background-color: gainsboro;
+  height: 78vh;
+}
+
+footer {
+  background-color: black;
+  height: 5vh;
+  color: white;
+}
