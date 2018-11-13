@@ -3,6 +3,7 @@ body {
 }
 
 header {
+  display: flex;
   background-color: black;
   color: white;
   height: 12vh;
@@ -24,4 +25,20 @@ footer {
   background-color: black;
   height: 5vh;
   color: white;
+}
+
+#logo {
+  flex-grow: 3;
+}
+
+.header-button {
+  flex-grow: 2;
+}
+
+input {
+  flex-grow: 6;
+}
+
+#cart-button {
+  flex-grow: 1;
 }
